@@ -3,7 +3,7 @@ Site referente ao projeto do primeiro semestre do curso de sistemas da informaç
 
 # Zonko's Ambiental
 
-Experimente: https://ryandcmv.github.io//#
+Experimente: https://ryandcmv.github.io/file:/Users/ryanmarinho/Zonko's%20Ambietal/inicio.html/#
 
 ## 📌 Envolvidos neste projeto: 
 👦: **- Ryan Marinho**
@@ -14,11 +14,12 @@ Experimente: https://ryandcmv.github.io//#
 👦: **- Erick Ilya Masta**
 👦: **- Pedro Mendes**
 👦: **- Mauricio Carvalho**
-👦: **- **
-👦: **- **
-👦: **- **
 
-Experimente: 
+
+Experimente: https://ryandcmv.github.io/file:/Users/ryanmarinho/Zonko's%20Ambietal/Contato.html#
+Experimente: https://ryandcmv.github.io/file:/Users/ryanmarinho/Zonko's%20Ambietal/Index.html/#
+Experimente: https://ryandcmv.github.io/file:/Users/ryanmarinho/Zonko's%20Ambietal/zonko's.html
+
 
 
 ![]()

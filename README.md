@@ -28,5 +28,4 @@ Experimente: https://ryandcmv.github.io/file:/Users/ryanmarinho/Zonko's%20Ambiet
 ## Imagens do site:
 
 
-![printwebsiteRyan](https://user-images.githubusercontent.com/71888001/139563285-475a5f9b-c13a-4668-96ac-d58fa5c9f216.PNG)
 

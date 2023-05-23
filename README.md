@@ -3,7 +3,7 @@ Site referente ao projeto do primeiro semestre do curso de sistemas da informaç
 
 # Zonko's Ambiental
 
-Experimente: https://ryandcmv.github.io/Zonko-s-projeto/
+Experimente: https://ryandcmv.github.io/Zonko-s-projeto/Zonko's%20Ambietal/Index.html
 
 ## 📌 Envolvidos neste projeto: 
 👦: **- Ryan Marinho**
